@@ -1,0 +1,4 @@
+BUCKET = "wind"
+URL = "http://localhost:8086"
+TOKEN = "IkRV5NlnRp_fTHR5x4mgMzi_coQ31ILQBaQUf5wZfXIJ9iwCZBH9qiHnSREgdu_bdsmAjUisUTmqoMvpXDXUOA=="
+ORGANIZATION = "nikitaOrganization"
