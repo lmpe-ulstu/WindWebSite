@@ -1,11 +1,10 @@
-from django.http import HttpResponse
 from django.shortcuts import render
 from .influxManager import getDataByTime
 
-from .config import BUCKET
-from .config import URL
-from .config import TOKEN
-from .config import ORGANIZATION
+from Main.settings import BUCKET
+from Main.settings import URL
+from Main.settings import TOKEN
+from Main.settings import ORGANIZATION
 
 
 def index(request):
